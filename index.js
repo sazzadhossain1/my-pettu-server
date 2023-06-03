@@ -15,6 +15,14 @@ app.get("/exprtData", (req, res) => {
   res.send(exprt);
 });
 
+app.get("/exprtData/:id", (req, res) => {
+  const id = parseInt(req.params.id);
+
+  const findExprt = exprt.find((singleExprt) => singleExprt.id === id);
+
+  res.send(findExprt);
+});
+
 app.listen(port, () => {
   console.log("server is running");
 });
