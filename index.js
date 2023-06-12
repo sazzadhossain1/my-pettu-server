@@ -25,7 +25,18 @@ app.get("/exprtData/:id", (req, res) => {
   res.send(findExprt);
 });
 //...................................//
+app.get("/serviceData", (req, res) => {
+  res.send(serviceData);
+});
 
+app.get("/serviceData/:id", (req, res) => {
+  const id = parseInt(req.params.id);
+
+  const findServiceData = serviceData.find(
+    (singleServiceData) => singleServiceData.id === id
+  );
+  res.send(findServiceData);
+});
 //...................................//
 
 app.listen(port, () => {
