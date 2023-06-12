@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+
+    "title": "Dog boarding",
+    "img": "https://cdn.dribbble.com/users/3123176/screenshots/8663531/media/9a755335cddf1a690522c3f272ec3677.png?compress=1&resize=1000x750&vertical=top",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi architecto voluptatibus facilis quo aliquid "
+  },
+  {
+    "id": 2,
+
+    "title": "Cat boarding",
+    "img": "https://png.pngtree.com/template/20190809/ourmid/pngtree-cat-logo-simple-gradation-in-yellow-with-a-black-background-image_290980.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi architecto voluptatibus facilis quo aliquid "
+  },
+  {
+    "id": 3,
+
+    "title": "Healthy meals",
+    "img": "https://thumbs.dreamstime.com/z/pet-food-mascot-logo-dogs-cat-154201910.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi architecto voluptatibus facilis quo aliquid "
+  },
+  {
+    "id": 4,
+
+    "title": "Dog Walking",
+    "img": "https://thumbs.dreamstime.com/z/pet-food-mascot-logo-dogs-cat-154201910.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi architecto voluptatibus facilis quo aliquid "
+  },
+  {
+    "id": 5,
+
+    "title": "Pet Sitting",
+    "img": "https://thumbs.dreamstime.com/z/pet-food-mascot-logo-dogs-cat-154201910.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi architecto voluptatibus facilis quo aliquid "
+  },
+  {
+    "id": 6,
+
+    "title": "Transport Services",
+    "img": "https://thumbs.dreamstime.com/z/pet-food-mascot-logo-dogs-cat-154201910.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi architecto voluptatibus facilis quo aliquid "
+  }
+]

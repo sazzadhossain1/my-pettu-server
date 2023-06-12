@@ -6,11 +6,13 @@ const port = process.env.PORT || 5000;
 app.use(cors());
 
 const exprt = require("./data/exprt.json");
+const serviceData = require("./data/service.json");
 
 app.get("/", (req, res) => {
   res.send("petty server is running");
 });
 
+//..................................//
 app.get("/exprtData", (req, res) => {
   res.send(exprt);
 });
@@ -22,6 +24,9 @@ app.get("/exprtData/:id", (req, res) => {
 
   res.send(findExprt);
 });
+//...................................//
+
+//...................................//
 
 app.listen(port, () => {
   console.log("server is running");
