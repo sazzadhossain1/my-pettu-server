@@ -25,34 +25,99 @@
 
     "title": "Cat boarding",
     "img": "https://png.pngtree.com/template/20190809/ourmid/pngtree-cat-logo-simple-gradation-in-yellow-with-a-black-background-image_290980.jpg",
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi architecto voluptatibus facilis quo aliquid "
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi architecto voluptatibus facilis quo aliquid ",
+
+    "img2": "https://images.pexels.com/photos/4560155/pexels-photo-4560155.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "provide": "We Provide Healthy meals for your pet",
+    "description2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+    "description3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+    "description4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "description-img": "https://images.pexels.com/photos/96938/pexels-photo-96938.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "bording": "Pet Boarding Facility",
+    "boardingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore",
+    "counseling": "Behavioral Consultation & Counseling",
+    "habilitation": "Specialized Day Habilitation",
+    "food": "Chicken Dog Treats Pet Supply Pet Food",
+    "description5": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
   {
     "id": 3,
 
     "title": "Healthy meals",
     "img": "https://thumbs.dreamstime.com/z/pet-food-mascot-logo-dogs-cat-154201910.jpg",
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi architecto voluptatibus facilis quo aliquid "
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi architecto voluptatibus facilis quo aliquid ",
+
+    "img2": "https://images.pexels.com/photos/4657306/pexels-photo-4657306.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "provide": "We Provide Healthy meals for your pet",
+    "description2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+    "description3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+    "description4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "description-img": "https://media.istockphoto.com/id/115797339/photo/group-of-pets-white-background.jpg?s=612x612&w=0&k=20&c=pB1dTjCLPqxNAiy5E4ZG3SsmRP6ueKqM3ILzH_7nQ-U=",
+    "bording": "Pet Boarding Facility",
+    "boardingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore",
+    "counseling": "Behavioral Consultation & Counseling",
+    "habilitation": "Specialized Day Habilitation",
+    "food": "Chicken Dog Treats Pet Supply Pet Food",
+    "description5": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
   {
     "id": 4,
 
     "title": "Dog Walking",
     "img": "https://thumbs.dreamstime.com/z/pet-food-mascot-logo-dogs-cat-154201910.jpg",
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi architecto voluptatibus facilis quo aliquid "
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi architecto voluptatibus facilis quo aliquid ",
+
+    "img2": "https://images.pexels.com/photos/1612861/pexels-photo-1612861.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "provide": "We Provide Healthy meals for your pet",
+    "description2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+    "description3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+    "description4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "description-img": "https://media.istockphoto.com/id/1452687636/photo/young-woman-bonding-with-her-cat-in-apartment.jpg?s=612x612&w=0&k=20&c=jJZilM1480sVJLtEaxtf3jU0is9CuikWVpD2obs7ukI=",
+    "bording": "Pet Boarding Facility",
+    "boardingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore",
+    "counseling": "Behavioral Consultation & Counseling",
+    "habilitation": "Specialized Day Habilitation",
+    "food": "Chicken Dog Treats Pet Supply Pet Food",
+    "description5": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
   {
     "id": 5,
 
     "title": "Pet Sitting",
     "img": "https://thumbs.dreamstime.com/z/pet-food-mascot-logo-dogs-cat-154201910.jpg",
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi architecto voluptatibus facilis quo aliquid "
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi architecto voluptatibus facilis quo aliquid ",
+
+    "img2": "https://images.pexels.com/photos/1448055/pexels-photo-1448055.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "provide": "We Provide Healthy meals for your pet",
+    "description2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+    "description3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+    "description4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "description-img": "https://media.istockphoto.com/id/1352214572/photo/shot-of-a-young-couple-playing-with-their-pet-dog.jpg?s=612x612&w=0&k=20&c=Hq8-xFAsJkZlNo5hbnert68nTasY-BzQn7gb3tSfSgw=",
+    "bording": "Pet Boarding Facility",
+    "boardingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore",
+    "counseling": "Behavioral Consultation & Counseling",
+    "habilitation": "Specialized Day Habilitation",
+    "food": "Chicken Dog Treats Pet Supply Pet Food",
+    "description5": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
   {
     "id": 6,
 
     "title": "Transport Services",
     "img": "https://thumbs.dreamstime.com/z/pet-food-mascot-logo-dogs-cat-154201910.jpg",
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi architecto voluptatibus facilis quo aliquid "
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi architecto voluptatibus facilis quo aliquid ",
+
+    "img2": "https://images.pexels.com/photos/6845638/pexels-photo-6845638.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "provide": "We Provide Healthy meals for your pet",
+    "description2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+    "description3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+    "description4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "description-img": "https://images.pexels.com/photos/4588070/pexels-photo-4588070.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "bording": "Pet Boarding Facility",
+    "boardingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore",
+    "counseling": "Behavioral Consultation & Counseling",
+    "habilitation": "Specialized Day Habilitation",
+    "food": "Chicken Dog Treats Pet Supply Pet Food",
+    "description5": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   }
 ]
